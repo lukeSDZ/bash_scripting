@@ -1,3 +1,4 @@
 #! /usr/bin/bash
 
-echo "hello"
+cat >> file.txt
+
